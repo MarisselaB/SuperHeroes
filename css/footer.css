@@ -1,0 +1,24 @@
+footer {
+  background-color: #00669f;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+  padding: 1rem;
+}
+
+.derechos {
+  padding-left: 2rem;
+  font-size: 1rem;
+  color: #fff9f9;
+}
+
+.github {
+  width: 50px;
+  height: 20px;
+  background-image: url(../img/GitHub.svg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+}
